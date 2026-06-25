@@ -198,23 +198,28 @@ Visual storytelling helped transform numerical findings into easy-to-understand 
 E-Commerce-Sales-Analysis/
 │
 ├── Data/
-│   └── Dataset_for_Data_Analytics.xlsx
-│
-├── Project1_Data_Cleaning/
+│   ├── Dataset_for_Data_Analytics.xlsx
+│   ├── cleaned_dataset.csv
 │   └── Data_Cleaning.ipynb
 │
-├── Project2_EDA/
+├── Project_01_Data_Cleaning/
+│   └── Data_Cleaning.ipynb
+│
+├── Project_02_EDA/
 │   ├── EDA.ipynb
 │   └── Change_Log.xlsx
 │
-├── Project3_SQL/
+├── Project_03_SQL_Analysis/
 │   ├── Ecommerce.db
-│   └── SQL.ipynb
+│   └── SQL_Analysis.ipynb
 │
-├── Project4_Visualization/
+├── Project_04_Data_Visualization/
 │   └── Visualization.ipynb
 │
-└── README.md
+├── Project_05_Business_Insights/
+│   └── Business_Insights.md
+├── README.md
+
 ```
 
 ```
